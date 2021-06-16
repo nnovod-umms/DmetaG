@@ -1,2 +1,9 @@
+target/
+dmetagServer/src/main/resources/dmetagclientSources/
 *.class
 *.log
+*.iml
+*.ipr
+*.iws
+.idea/
+.DS_Store
