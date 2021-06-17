@@ -7,3 +7,4 @@ dmetagServer/src/main/resources/dmetagclientSources/
 *.iws
 .idea/
 .DS_Store
+.bsp/
